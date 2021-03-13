@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jaycean, I from china.
+- 👀 I like code, I also like dancing, I'm a locker.
+- 🌱 I'm currently working on Apache APISIX, which is a high performance API Gateway.
+- 📫 You can get in touch with me by sending mail to jinchen@apache.org.
